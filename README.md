@@ -4,7 +4,7 @@
 ```
 git clone https://github.com/ktkr3d/neutralinojs-nuxt3-voicevox.git
 cd neutralinojs-nuxt3-voicevox
-neu udate
+neu update
 cd nuxt3-src
 npm install
 npm run generate
